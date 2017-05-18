@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://git.oschina.net/MyJavaCode/tms/raw/master/tms.ipa</string>
+     <string>https://raw.githubusercontent.com/greenarrow2/tms/master/tms.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
